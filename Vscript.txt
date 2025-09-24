@@ -1,4 +1,3 @@
-"# Namlab" 
 //Vscript
 
 // 리트랙션 파라미터
